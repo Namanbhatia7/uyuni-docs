@@ -214,7 +214,6 @@ a:hover {
 }
 
 
-<<<<<<< HEAD
 /* Table */
 
 
@@ -271,7 +270,6 @@ background: #9a9a9a26;
   padding: .50rem;
   border-radius: 0.30rem;
 }
-=======
 
 /* admonition style */
 
@@ -355,4 +353,3 @@ i.fa.icon-warning::before {
     background: no-repeat url("../img/exclamation.svg");
 }
 
->>>>>>> gsoc-uyuni-theme
